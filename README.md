@@ -121,6 +121,8 @@ The application performs CRUD operations using Hibernate and prints the results 
 
 ---
 OUTPUT
+![Uploading image.png…]()
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/62450a5c-0c13-4da5-bf4d-1c5a271e7e7f" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/796616ba-2f83-4f0c-a161-aeca2e6798bd" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/de3535c9-83e1-45c0-acdd-964a82f8b12e" />
