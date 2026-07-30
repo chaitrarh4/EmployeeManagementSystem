@@ -121,7 +121,8 @@ The application performs CRUD operations using Hibernate and prints the results 
 
 ---
 OUTPUT
-https://chatgpt.com/s/m_6a6b8d3486248191b73d88b98ded536a
+<img width="1024" height="1536" alt="ChatGPT Image Jul 30, 2026, 11_14_13 PM" src="https://github.com/user-attachments/assets/41285b21-be18-4d40-8a2d-9d30d44fb4c9" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/62450a5c-0c13-4da5-bf4d-1c5a271e7e7f" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/796616ba-2f83-4f0c-a161-aeca2e6798bd" />
